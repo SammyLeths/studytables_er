@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Italianno&display=swap");
+
+body {
+  font-size: 14px;
+}
+
+h1 {
+  font-family: "Italianno", cursive;
+  font-weight: 900 !important;
+  font-style: normal;
+}
+
+.symbol-col {
+  box-shadow: inset -5px 0 5px -5px rgba(0, 0, 0, 0.5);
+}
